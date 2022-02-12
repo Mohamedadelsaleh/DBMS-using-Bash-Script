@@ -1,4 +1,6 @@
 clear
+echo "                                                               "
+
 echo "Please, Enter Your Database Name : "
 read dbname
 
