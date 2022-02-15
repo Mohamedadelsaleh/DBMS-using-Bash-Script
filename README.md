@@ -1,8 +1,8 @@
 # BashDB
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
-[![forthebadge](https://forthebadge.com/images/badges/0-percent-optimized.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/built-by-developers.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/uses-git.svg)](https://forthebadge.com)
+
 # Database Managment System with Bash Script
 DBMS Project Engine created using [Bash Script], includes Script files like SQL queries [DDL & DML] are run as commands using Terminal.
 
@@ -10,8 +10,8 @@ DBMS Project Engine created using [Bash Script], includes Script files like SQL 
 * [Setup](#setup)
 * [Usage](#usage)
 * [Authors](#authors)
-* [Built With](#built-with)
-* [References For You](#references)
+* [Built With](#built with)
+* [References For You](#references For you)
 ***
 
 ## Setup
