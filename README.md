@@ -24,7 +24,7 @@ git clone https://github.com/Mohamedadelsaleh/BashDB.git
 Then Enter the directory and take its path :
 
 ```bash
- cd BashDB
+ cd DBMS-using-Bash-Script
  echo $PWD   
 ```
 Then open run command ./Main.sh file :
