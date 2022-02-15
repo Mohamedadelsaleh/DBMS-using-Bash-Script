@@ -61,9 +61,7 @@ Or you can run any of our scripts separately in our System.
 * [Mohamed Rashed](https://github.com/mhmadrashd) 
 
 ## Built With
-* JavaFX 
-* postgresql 
-* CSS
+* Bash Script
 
 ## References For You
 You can also check out some documentation to understand how SQL queries work and how bash scripts work on Linux.
