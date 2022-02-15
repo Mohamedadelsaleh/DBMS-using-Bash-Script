@@ -46,14 +46,15 @@ Or you can run any of our scripts separately in our System.
 - Drop a Database
 - Exit
 
-- Creat Tables
-- Update Tables
-- Display Tables
+- Show Tables
+- Create Table
+- Alter Table
 - Delete Tables
-- Insert Rows
-- Display Rows
-- Update Rows
-- Delete Rows
+- Insert Record
+- Delete Record
+- Display Table
+- Display Row
+- Update Table
 ```
 ## Authors
 
