@@ -65,8 +65,8 @@ Or you can run any of our scripts separately in our System.
 
 ## References For You
 You can also check out some documentation to understand how SQL queries work and how bash scripts work on Linux.
-
-- [MySQL](https://dev.mysql.com/doc/)
+- [Bash Script](https://devhints.io/bash)
+- [SQL](https://www.w3schools.com/sql/)
 - [PostgreSQL](https://www.postgresql.org/docs/)
 - [Linux Kernel](https://www.kernel.org/doc/html/latest/)
 - [Bash](https://devdocs.io/bash/)
