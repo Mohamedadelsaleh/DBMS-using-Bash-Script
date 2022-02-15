@@ -60,7 +60,7 @@ Or you can run any of our scripts separately in our System.
 * [Mohamed Adel Salah Gouda](https://github.com/Mohamedadelsaleh)
 * [Mohamed Rashed](https://github.com/mhmadrashd) 
 
-## Built With :
+## Built With
 * JavaFX 
 * postgresql 
 * CSS
