@@ -10,7 +10,7 @@ DBMS Project Engine created using [Bash Script], includes Script files like SQL 
 * [Setup](#setup)
 * [Usage](#usage)
 * [Authors](#authors)
-* [Built With :](#built-with)
+* [Built With](#built-with)
 * [References For You](#references-for-You)
 ***
 
