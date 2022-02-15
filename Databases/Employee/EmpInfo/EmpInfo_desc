@@ -1,0 +1,5 @@
+ID:integer:pk
+name:string:
+Address:string:
+Age:integer:
+Salary:integer:

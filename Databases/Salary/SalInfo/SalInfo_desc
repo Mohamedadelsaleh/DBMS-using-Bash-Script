@@ -1,0 +1,3 @@
+SID:integer:pk
+MinSalary:integer:
+MaxSalary:integer:
