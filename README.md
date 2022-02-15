@@ -1,13 +1,17 @@
 # BashDB
+[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/0-percent-optimized.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/built-by-developers.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/uses-git.svg)](https://forthebadge.com)
 # Database Managment System with Bash Script
-DBMS Project Engine created using [Bash Script], includes Script files like SQL queries [DDL & DML] are run as commands from wherever you are using terminal.
+DBMS Project Engine created using [Bash Script], includes Script files like SQL queries [DDL & DML] are run as commands using Terminal.
 
 ## Table of contents
 * [Setup](#setup)
 * [Usage](#usage)
-* [Demo](#demo)
 * [Authors](#authors)
-* [Documentations](#documentations)
+* [Built With](#built-with)
+* [References For You](#references)
 ***
 
 ## Setup
@@ -23,31 +27,17 @@ Then Enter the directory and take its path :
  cd BashDB
  echo $PWD   
 ```
-Then open .bashrc file :
-```bash
-vi ~/.bashrc
-or
-gedit ~/.bashrc
-```
-Then write on it :
-```bash
-PATH="[our project directory path you take above]:$PATH"
-alias DBMS='db.sh'
-```
-Then close the terminal and re-open it.
-Finally, you can use our DBMS easily.
+Then open run command ./Main.sh file :
+
 ## Usage
-You can run our DBMS engine from anywhere you want to include a database system by runnig this command :
+You can run our DBMS Engine from anywhere you want to include a database system by runnig this command :
 ```bash
-DBMS
-or
-db.sh
+./Main.sh
 ```
-Then you can use selector app :
+Or you can run any of our scripts separately in our System.
 
-![Screenshot from 2022-01-21 23-39-43](https://user-images.githubusercontent.com/42323978/150604087-cc78bf7d-40b0-4391-94b4-011183f1d216.png)
+## You will be able to do all things below:
 
-Or you can run any of our scripts separately :
 ```bash
 
 - Create Database
@@ -70,7 +60,7 @@ Or you can run any of our scripts separately :
 * [Mohamed Adel Salah Gouda](https://github.com/Mohamedadelsaleh)
 * [Mohamed Rashed](https://github.com/mhmadrashd) 
 
-# Built With :
+## Built With :
 * JavaFX 
 * postgresql 
 * CSS
