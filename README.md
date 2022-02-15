@@ -58,7 +58,7 @@ Or you can run any of our scripts separately in our System.
 ## Authors
 
 * [Mohamed Adel Salah Gouda](https://github.com/Mohamedadelsaleh)
-* [Mohamed Rashed](https://github.com/mhmadrashd) 
+* [Mohamed El-Yamany Rashed](https://github.com/mhmadrashd) 
 
 ## Built With
 * Bash Script
